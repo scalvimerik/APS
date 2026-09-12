@@ -1,2 +1,1 @@
-Aqui será nosso arquivo para a APS
-teste teste
+Inicialmente, fizemos os primeiros commits na branch master para testar como funcionava o Git. Depois, criamos a branch desenvolvimento para continuar a atividade. Todo o processo foi feito em chamada pelo Discord, onde fomos trabalhando juntos e aprendendo a usar o Git e o GitHub conforme fazíamos cada etapa.
